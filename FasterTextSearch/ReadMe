@@ -1,0 +1,5 @@
+To run the file:
+'cargo run /Users/AgileLlama/Desktop/RustProjects/FasterTextSearch/info.txt July'
+
+First thing will be the location of the text file to search.
+July will be the pattern to search for.
