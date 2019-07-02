@@ -6,7 +6,7 @@ use std::process;
 use std::ptr::null;
 use std::fs;
 
-mod vigenere_cipher;
+//mod vigenere_cipher;
 
 type Error = Box<error::Error + Send + Sync>;
 
