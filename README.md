@@ -8,4 +8,4 @@ Small projects to learn rust.
 4. Reverse a sentence/word with recursion. Introduces the idea of lifetimes.
 5. Checks whether a word is a palindrome. Uses recursion. Function duplicate.
 6. Finds all the primes of a number. Finds pairs of primes which add upto that number. Removes duplicates.
-7. Rot13 Encryption. Really basic encryption.
+7. Rot13 Encryption. Really basic encryption. Takes a txt file in the command line.
