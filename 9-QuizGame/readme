@@ -1,0 +1,2 @@
+txt file questions and answers are separated by a tab.
+to run use cargo run --release (second parameter link to a txt file, with questions and answers seperated by a tab)
