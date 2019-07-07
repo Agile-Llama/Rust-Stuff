@@ -1,6 +1,7 @@
 # Rust-Stuff
 
 Small projects to learn rust.
+
 Small Rogue like game following a tutorial. Has basic movement, random dunegon generation, monsters, fov, fog of war.
 
 1. Simple guessing game, generates a random number. Attempt to guess it. Provides feedback on how far you are off.
