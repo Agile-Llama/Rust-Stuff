@@ -12,3 +12,4 @@ Small Rogue like game following a tutorial. Has basic movement, random dunegon g
 6. Finds all the primes of a number. Finds pairs of primes which add upto that number. Removes duplicates.
 7. Rot13 Encryption. Really basic encryption. Takes a txt file in the command line.
 8. Vigenere Cipher. Takes command line input. First being the txt file to encrypt. Second is the key in which to encrypt it      with. Can encrypt and decrypt with the provided key. 
+9. Quiz game uses multi threading for a time limit to answer questions.
